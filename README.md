@@ -1,1 +1,1 @@
-# phue-client
+# UNOFFICIAL | Philips Hue API Client
